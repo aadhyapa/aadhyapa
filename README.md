@@ -9,7 +9,7 @@
 I’m a **senior at Michigan State University, majoring in Computer Science**. I love building, learning, and experimenting with new technologies. I especially love developing for convenience or to streamline a daily task.
 Currently, I am learning about ML Engineering through Break Through Tech's AI program and my own resume-tailor project. I am also passionate about computer vision and IoT, both of which I am learning by building small projects that solve big problems in my life. 
 
-When I am away from my keyboard, I love rock climbing, cooking, and playing Minecraft with my friends. 
+When I am away from my keyboard, I love rock climbing, cooking, and reading fantasy novels. 
 
 
 <h2 align="center">🛠️ Tech I like using</h2>
