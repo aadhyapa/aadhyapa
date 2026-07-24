@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=FFB6C1&text=Hi!%20I%20am%20Aadhya"/>
 </p>
-<h1 align="center">Hi 👋  I'm Aadhya Pandillapally</h1>
-## 👨🏻‍💻 About Me  
+## About Me  
 
 I’m a **senior at Michigan State University, majoring in Computer Science**. I love building, learning, and experimenting with new technologies. I especially love developing for convenience or to streamline a daily task.
 Currently, I am learning about ML Engineering through Break Through Tech's AI program and my own resume-tailor project. I am also passionate about computer vision and IoT, both of which I am learning by building small projects that solve big problems in my life. 
@@ -10,7 +9,7 @@ Currently, I am learning about ML Engineering through Break Through Tech's AI pr
 When I am away from my keyboard, I love rock climbing, cooking, and reading fantasy novels. 
 
 
-<h2 align="center">🛠️ Tech I like using</h2>
+<h2 align="center">🎀 What I use to build</h2>
 
 <p align="center">
   <!-- Languages -->
@@ -57,7 +56,7 @@ When I am away from my keyboard, I love rock climbing, cooking, and reading fant
 </p>
 
 
-<h2 align="center">Stay In Touch!</h2>
+<h2 align="center">🧋Stay In Touch!</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/aadhyapa">
