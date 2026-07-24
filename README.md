@@ -4,13 +4,6 @@
 
 <h1 align="center">Hi 👋  I'm Aadhya Pandillapally</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=0ef7b3&center=true&vCenter=true&width=600&lines=Prev.+Intern+%40+RTX+%2B+Tesla;CS+Senior+%40+MSU;DSA+TA+%40+MSU" alt="Typing SVG" />
-  </a>
-</p>
-
-
 ## 👨🏻‍💻 About Me  
 
 I’m a **senior at Michigan State University, majoring in Computer Science**. I love building, learning, and experimenting with new technologies. I especially love developing for convenience or to streamline a daily task.
@@ -19,7 +12,7 @@ Currently, I am learning about ML Engineering through Break Through Tech's AI pr
 When I am away from my keyboard, I love rock climbing, cooking, and playing Minecraft with my friends. 
 
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Tech I like using</h2>
 
 <p align="center">
   <!-- Languages -->
