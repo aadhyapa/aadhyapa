@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=FFB6C1&text=Hi!%20I%20am%20Aadhya"/>
 </p>
-
+<h1 align="center">Hi 👋  I'm Aadhya Pandillapally</h1>
 ## 👨🏻‍💻 About Me  
 
 I’m a **senior at Michigan State University, majoring in Computer Science**. I love building, learning, and experimenting with new technologies. I especially love developing for convenience or to streamline a daily task.
